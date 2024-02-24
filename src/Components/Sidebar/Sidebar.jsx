@@ -156,7 +156,7 @@ function Sidebar({ sidebar, category, setCategory }) {
 						src={cameron}
 						alt=''
 					/>
-					<p>Nas dDaily</p>
+					<p>Nas Daily</p>
 				</div>
 			</div>
 		</div>
